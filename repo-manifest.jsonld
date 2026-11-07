@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/plotly/DataframesBenchmark/commit/6beefb48878200d2bf16854200046191e62844a8",
       "git:hexsha": "6beefb48878200d2bf16854200046191e62844a8",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-07T08:02:35.464059+00:00"
     }
   ]
 }
