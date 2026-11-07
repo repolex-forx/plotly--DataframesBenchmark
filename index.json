@@ -1,0 +1,11 @@
+{
+  "org": "plotly",
+  "repo": "DataframesBenchmark",
+  "versions": [
+    {
+      "commit": "6beefb48878200d2bf16854200046191e62844a8",
+      "tag": "",
+      "parsed_at": "2026-11-07T08:02:35.464510+00:00"
+    }
+  ]
+}
